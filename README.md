@@ -14,3 +14,16 @@ py index.py
 or
 python index.py
 ```
+
+##Login
+
+---python
+Username:Nitish kumar
+password:1234
+---
+
+##Signup
+
+---
+Create your own account
+---

@@ -17,7 +17,6 @@ python index.py
 
 ## Login
 
-___python
 Username:Nitish kumar
 
 password:1234

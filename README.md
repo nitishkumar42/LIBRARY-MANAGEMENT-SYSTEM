@@ -17,9 +17,9 @@ python index.py
 
 ## Login
 
-Username:Nitish kumar
+* Username:Nitish kumar
 
-password:1234
+* password:1234
 
 
 ## Signup
